@@ -1,13 +1,13 @@
-﻿Console.WriteLine("моё имя");
-string govno = Console.ReadLine();
-Console.WriteLine("столько лет");
+﻿Console.WriteLine("твое имя");
+string name = Console.ReadLine();
+Console.WriteLine("сколько лет");
 int age = int.Parse(Console.ReadLine());
-Console.WriteLine("одинок да/нет");
-string pizda = Console.ReadLine();
+Console.WriteLine("в каком городе живёшь");
+string city = Console.ReadLine();
 
 
 Console.WriteLine("===== Информация о пользователе =====");
-Console.WriteLine($"Тебя еблана зовут = {govno}");
+Console.WriteLine($"Тебя еблана зовут = {name}");
 Console.WriteLine($"тебе ебанату стока лет = {age}");
-Console.WriteLine($"ты хуесос просто {pizda}");
+Console.WriteLine($"ты {city}ский хуесос");
 Console.WriteLine("=====================================");
