@@ -8,6 +8,6 @@ string city = Console.ReadLine();
 
 Console.WriteLine("===== Информация о пользователе =====");
 Console.WriteLine($"Тебя еблана зовут = {name}");
-Console.WriteLine($"тебе ебанату стока лет = {age}");
+Console.WriteLine($"тебе ебанату {age} лет");
 Console.WriteLine($"ты {city}ский хуесос");
 Console.WriteLine("=====================================");
