@@ -32,3 +32,4 @@ Console.WriteLine($"Тебя еблана зовут = {name}");
 Console.WriteLine($"тебе ебанату {age} лет");
 Console.WriteLine($"ты {city}ский хуесос");
 Console.WriteLine("=====================================");
+
